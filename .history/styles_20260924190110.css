@@ -1082,5 +1082,5 @@ select:invalid {
 }
 
 .twg-reverse {
-  border-block: 0px solid red !important;
+  border-bottom: 10px !important;
 }

@@ -230,12 +230,6 @@ body {
     backdrop-filter 0.35s ease;
 }
 
-#navbar {
-  background: rgb(255, 255, 255);
-  color: var(--pri-clr);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
 .navbar.scrolled {
   background: rgb(255, 255, 255);
   color: var(--pri-clr);
@@ -281,7 +275,7 @@ body {
 }
 
 .logo {
-  font-size: 24px;
+  width: 150px;
 }
 
 .toggle_button {
@@ -1073,14 +1067,4 @@ select:invalid {
       translate: 100vw;
     }
   }
-}
-.twg p {
-  font-size: 14px;
-}
-.about-sections {
-  padding-top: 80px;
-}
-
-.twg-reverse {
-  border-block: 0px solid red !important;
 }

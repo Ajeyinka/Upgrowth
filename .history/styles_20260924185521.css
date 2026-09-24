@@ -1077,10 +1077,3 @@ select:invalid {
 .twg p {
   font-size: 14px;
 }
-.about-sections {
-  padding-top: 80px;
-}
-
-.twg-reverse {
-  border-block: 0px solid red !important;
-}

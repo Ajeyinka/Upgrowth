@@ -1078,9 +1078,5 @@ select:invalid {
   font-size: 14px;
 }
 .about-sections {
-  padding-top: 80px;
-}
-
-.twg-reverse {
-  border-block: 0px solid red !important;
+  padding-top: 4000px;
 }

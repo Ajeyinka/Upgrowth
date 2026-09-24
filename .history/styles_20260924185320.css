@@ -231,9 +231,7 @@ body {
 }
 
 #navbar {
-  background: rgb(255, 255, 255);
-  color: var(--pri-clr);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: red;
 }
 
 .navbar.scrolled {
@@ -1076,11 +1074,4 @@ select:invalid {
 }
 .twg p {
   font-size: 14px;
-}
-.about-sections {
-  padding-top: 80px;
-}
-
-.twg-reverse {
-  border-block: 0px solid red !important;
 }
