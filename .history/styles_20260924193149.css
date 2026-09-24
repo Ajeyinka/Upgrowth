@@ -356,7 +356,7 @@ body {
   #navbar .nav-list {
     color: white;
   }
-  #navbar .nav-list {
+  #navbar .nav-list a {
     font-weight: 300;
     font-size: 24px;
   }
