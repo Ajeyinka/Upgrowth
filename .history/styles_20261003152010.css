@@ -1100,7 +1100,7 @@ select:invalid {
   min-height: 90vh;
   padding-top: 80px;
 
-  & p {
-    color: white;
+  &p {
+    color: red;
   }
 }

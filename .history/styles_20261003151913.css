@@ -1096,11 +1096,6 @@ select:invalid {
   border-block: 0px solid red !important;
 }
 
-.error-page .hero-section {
+.error-page {
   min-height: 90vh;
-  padding-top: 80px;
-
-  & p {
-    color: white;
-  }
 }

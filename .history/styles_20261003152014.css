@@ -1101,6 +1101,6 @@ select:invalid {
   padding-top: 80px;
 
   & p {
-    color: white;
+    color: red;
   }
 }

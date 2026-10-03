@@ -1098,9 +1098,4 @@ select:invalid {
 
 .error-page .hero-section {
   min-height: 90vh;
-  padding-top: 80px;
-
-  & p {
-    color: white;
-  }
 }
